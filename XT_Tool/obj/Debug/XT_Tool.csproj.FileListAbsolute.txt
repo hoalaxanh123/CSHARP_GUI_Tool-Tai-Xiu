@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\bin\Debug\XT_Tool.exe.config
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\bin\Debug\XT_Tool.exe
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\bin\Debug\XT_Tool.pdb
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.Form1.resources
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.Properties.Resources.resources
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.exe
+C:\Users\Admin\source\repos\XT_Tool\XT_Tool\obj\Debug\XT_Tool.pdb
